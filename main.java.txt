@@ -8,7 +8,6 @@ int b = 10;
 int c = 10;
 a = b+c;
 
-# Print 
 System.out.println(a);
 }
 }
